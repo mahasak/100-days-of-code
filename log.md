@@ -1,30 +1,12 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code - Log - Mahasak Pijittum
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+The log of my #100DaysOfCode challenge. Started on [May 17, Friday, 2019].
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+### Day 1: May 17, 2017 (Example 1)
+##### Writing React Component and CSS
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress**: Setup Storybook-React, write FlipCounter React CSS
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Thoughts:** I am not very good at CSS, especially animated CSS which is really painful to me. I started by learning concept of animation by Flip Counter which replace old frame with flip effect and draw new frame. I still not very satisfied with today progress but 
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link to work:** [FlipCounter component](https://github.com/mahasak/bigbear-components)
