@@ -2,7 +2,7 @@
 
 The log of my #100DaysOfCode challenge. Started on [May 17, Friday, 2019].
 
-### Day 1: May 17, 2017 (Example 1)
+### Day 1: May 17, 2017
 ##### Writing React Component and CSS
 
 **Today's Progress**: Setup Storybook-React, write FlipCounter React CSS
