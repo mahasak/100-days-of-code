@@ -2,7 +2,7 @@
 
 The log of my #100DaysOfCode challenge. Started on [May 17, Friday, 2019].
 
-### Day 1: May 17, 2017
+### Day 1: May 17, 2019
 ##### Writing React Component and CSS
 
 **Today's Progress**: Setup Storybook-React, write FlipCounter React CSS
@@ -12,7 +12,7 @@ The log of my #100DaysOfCode challenge. Started on [May 17, Friday, 2019].
 **Link to work:** [FlipCounter component](https://github.com/mahasak/bigbear-components)
 
 
-### Day 2: May 18, 2017
+### Day 2: May 18, 2019
 ##### Writing React Component and learn CSS Animation
 
 **Today's Progress**: Recap React Highrt Order component, Refactor Flipcounter to HoC and compose new FlipClock
@@ -20,3 +20,13 @@ The log of my #100DaysOfCode challenge. Started on [May 17, Friday, 2019].
 **Thoughts:** I start getting about CSS Animation but still not very good at it. I coding more today because my wife is away :D I planned for make coutdown component tomorrow and refactor everything to TypeScript laters.
 
 **Link to work:** [FlipUnit,FlipClock component](https://github.com/mahasak/bigbear-components)
+
+
+### Day 3: May 19, 2019
+##### Refactor FlipClock to FlipTimer and Flip CountDown
+
+**Today's Progress**: Write new component FlipCoundown and FlipTimer, plan for write Pomodoro App tomorrow
+
+**Thoughts:** CSS is not that hard, but i still not get much on transform and animate property. i guess i need to read more code and write more on myself. 97 days to go
+
+**Link to work:** [FlipCountDown,FlipTimer component](https://github.com/mahasak/bigbear-components)
