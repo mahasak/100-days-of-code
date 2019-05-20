@@ -30,3 +30,12 @@ The log of my #100DaysOfCode challenge. Started on [May 17, Friday, 2019].
 **Thoughts:** CSS is not that hard, but i still not get much on transform and animate property. i guess i need to read more code and write more on myself. 97 days to go
 
 **Link to work:** [FlipCountDown,FlipTimer component](https://github.com/mahasak/bigbear-components)
+
+### Day 4: May 20, 2019
+##### Create Chrome Extension to remove Spolier post from Facebook Feed
+
+**Today's Progress**: Learn how to write chrome extension and create a spoiler remover extension to remove spoiler on GOT which i not watched yet :)
+
+**Thoughts:** Chrome Extension can be complex when dealing with security concern, concept of message passing under chrome API is reallu useful to learn & Thanks Chrome team for a good one !!
+
+**Link to work:** [Spoiler Remove chrome extension](https://github.com/mahasak/spoiler-remove-extension)
