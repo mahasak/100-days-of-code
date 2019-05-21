@@ -39,3 +39,12 @@ The log of my #100DaysOfCode challenge. Started on [May 17, Friday, 2019].
 **Thoughts:** Chrome Extension can be complex when dealing with security concern, concept of message passing under chrome API is reallu useful to learn & Thanks Chrome team for a good one !!
 
 **Link to work:** [Spoiler Remove chrome extension](https://github.com/mahasak/spoiler-remove-extension)
+
+### Day 5: May 21, 2019
+##### Create Pomodoro Timer from previously work from D1-3
+
+**Today's Progress**: Refresh on react component lifecycle and custom callback to interact with parent component.
+
+**Thoughts:** This react stuff is a bit easy for me. Tomorrow i'd start switch to more tough topics
+
+**Link to work:** [Pomodoro Timer](https://github.com/mahasak/bigbear-components)
