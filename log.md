@@ -48,3 +48,13 @@ The log of my #100DaysOfCode challenge. Started on [May 17, Friday, 2019].
 **Thoughts:** This react stuff is a bit easy for me. Tomorrow i'd start switch to more tough topics
 
 **Link to work:** [Pomodoro Timer](https://github.com/mahasak/bigbear-components)
+
+
+### Day 6: May 22, 2019
+##### Create FlipUnit with flutter
+
+**Today's Progress**: Start learning flutter to create pomodoro timer 
+
+**Thoughts:** Flutter is quite different from React, learning flutter is very fun and very challenging to me. one thing i think it should be better for long term is to learn concept of flutter from groud.
+
+**Link to work:** [FlipUnit](https://github.com/mahasak/bigbear_pomodoro_flutter)
