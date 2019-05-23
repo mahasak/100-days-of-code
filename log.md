@@ -58,3 +58,13 @@ The log of my #100DaysOfCode challenge. Started on [May 17, Friday, 2019].
 **Thoughts:** Flutter is quite different from React, learning flutter is very fun and very challenging to me. one thing i think it should be better for long term is to learn concept of flutter from groud.
 
 **Link to work:** [FlipUnit](https://github.com/mahasak/bigbear_pomodoro_flutter)
+
+
+### Day 7: May 23, 2019
+##### Learn Flutter Widget/State/BuildContext
+
+**Today's Progress**: Relearn flutter basic on Widget/State/BuildContext
+
+**Thoughts:** Yesterday i tried 
+
+**Link to work:** [Flutter learning](https://github.com/mahasak/bigbear_pomodoro_flutter)
