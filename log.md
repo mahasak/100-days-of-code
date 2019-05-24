@@ -68,3 +68,15 @@ The log of my #100DaysOfCode challenge. Started on [May 17, Friday, 2019].
 **Thoughts:** Yesterday i tried 
 
 **Link to work:** [Flutter learning](https://github.com/mahasak/bigbear_pomodoro_flutter)
+
+
+### Day 8: May 24, 2015
+##### Learn Flutter Animation
+
+**Today's Progress**: Learn flutter animation object and basic of AnimationController
+
+**Thoughts:** Getting used to with Flutter animation concept, Pomorodo in flutter version might take a bit longer time than expected but will learn enough Animation effect in Flutter.
+
+**Link to work:** [Flutter learning](https://github.com/mahasak/bigbear_pomodoro_flutter)
+
+ 
