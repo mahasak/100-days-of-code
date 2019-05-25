@@ -79,4 +79,12 @@ The log of my #100DaysOfCode challenge. Started on [May 17, Friday, 2019].
 
 **Link to work:** [Flutter learning](https://github.com/mahasak/bigbear_pomodoro_flutter)
 
- 
+### Day 9: May 25, 2015
+##### Learn Flutter Stream & Timer
+
+**Today's Progress**: Learn how to use Timer and Stream in Flutter to decide how to use data stream fror my Pomodoro timer app.
+
+**Thoughts:** Stream is much better especially for broadcast stream it is quite useful in pomodoro case.
+
+**Link to work:** [Flutter learning](https://github.com/mahasak/bigbear_pomodoro_flutter)
+
