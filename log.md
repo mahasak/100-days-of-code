@@ -88,3 +88,11 @@ The log of my #100DaysOfCode challenge. Started on [May 17, Friday, 2019].
 
 **Link to work:** [Flutter learning](https://github.com/mahasak/bigbear_pomodoro_flutter)
 
+### Day 10: May 26, 2015
+##### Learn Flutter more on Braoadcast Stream
+
+**Today's Progress**: Learn how to use Broadcast Stream and subscribtions to update state in smaller widget.
+
+**Thoughts:** Broadcast Stream is super cool.
+
+**Link to work:** [Flutter learning](https://github.com/mahasak/bigbear_pomodoro_flutter)
