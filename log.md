@@ -96,3 +96,12 @@ The log of my #100DaysOfCode challenge. Started on [May 17, Friday, 2019].
 **Thoughts:** Broadcast Stream is super cool.
 
 **Link to work:** [Flutter learning](https://github.com/mahasak/bigbear_pomodoro_flutter)
+
+### Day 11: May 27, 2015
+##### Learn Scala Meta
+
+**Today's Progress**: Learn how to use Scala meta programming (super basic one)
+
+**Thoughts:** Learn how to use Scala Meta to apply meta programming, it give me a very good idea for meta programming & code generation
+
+**Link to work:** [Learn-Scala-Meta](https://github.com/mahasak/learn-meta-prog)
