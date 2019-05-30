@@ -114,3 +114,15 @@ The log of my #100DaysOfCode challenge. Started on [May 17, Friday, 2019].
 
 **Thoughts:** Too less time today :(
 **Link to work:** [Learn-Scala-Meta](https://github.com/mahasak/learn-meta-prog)
+
+
+### Day 13: May 27, 2015
+##### Learn Go by side project
+
+**Today's Progress**: Learn to use go middleware, apply middleware chaining to working as http pipeline similar to what i'm familiar.
+
+**Thoughts:** Go middleware is super powerful. I begin to love it.
+**Link to work:** [OpenOrders](https://github.com/mahasak/OpenOrders)
+
+
+
