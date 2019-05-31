@@ -1,8 +1,8 @@
 # 100 Days Of Code - Log - Mahasak Pijittum
 
-The log of my #100DaysOfCode challenge. Started on [May 17, Friday, 2019].
+The log of my #100DaysOfCode challenge. Started on [May 18, Friday, 2019].
 
-### Day 1: May 17, 2019
+### Day 1: May 18, 2019
 ##### Writing React Component and CSS
 
 **Today's Progress**: Setup Storybook-React, write FlipCounter React CSS
@@ -12,7 +12,7 @@ The log of my #100DaysOfCode challenge. Started on [May 17, Friday, 2019].
 **Link to work:** [FlipCounter component](https://github.com/mahasak/bigbear-components)
 
 
-### Day 2: May 18, 2019
+### Day 2: May 19, 2019
 ##### Writing React Component and learn CSS Animation
 
 **Today's Progress**: Recap React Highrt Order component, Refactor Flipcounter to HoC and compose new FlipClock
@@ -22,7 +22,7 @@ The log of my #100DaysOfCode challenge. Started on [May 17, Friday, 2019].
 **Link to work:** [FlipUnit,FlipClock component](https://github.com/mahasak/bigbear-components)
 
 
-### Day 3: May 19, 2019
+### Day 3: May 20, 2019
 ##### Refactor FlipClock to FlipTimer and Flip CountDown
 
 **Today's Progress**: Write new component FlipCoundown and FlipTimer, plan for write Pomodoro App tomorrow
@@ -31,7 +31,7 @@ The log of my #100DaysOfCode challenge. Started on [May 17, Friday, 2019].
 
 **Link to work:** [FlipCountDown,FlipTimer component](https://github.com/mahasak/bigbear-components)
 
-### Day 4: May 20, 2019
+### Day 4: May 21, 2019
 ##### Create Chrome Extension to remove Spolier post from Facebook Feed
 
 **Today's Progress**: Learn how to write chrome extension and create a spoiler remover extension to remove spoiler on GOT which i not watched yet :)
@@ -40,7 +40,7 @@ The log of my #100DaysOfCode challenge. Started on [May 17, Friday, 2019].
 
 **Link to work:** [Spoiler Remove chrome extension](https://github.com/mahasak/spoiler-remove-extension)
 
-### Day 5: May 21, 2019
+### Day 5: May 22, 2019
 ##### Create Pomodoro Timer from previously work from D1-3
 
 **Today's Progress**: Refresh on react component lifecycle and custom callback to interact with parent component.
@@ -50,7 +50,7 @@ The log of my #100DaysOfCode challenge. Started on [May 17, Friday, 2019].
 **Link to work:** [Pomodoro Timer](https://github.com/mahasak/bigbear-components)
 
 
-### Day 6: May 22, 2019
+### Day 6: May 23, 2019
 ##### Create FlipUnit with flutter
 
 **Today's Progress**: Start learning flutter to create pomodoro timer 
@@ -60,7 +60,7 @@ The log of my #100DaysOfCode challenge. Started on [May 17, Friday, 2019].
 **Link to work:** [FlipUnit](https://github.com/mahasak/bigbear_pomodoro_flutter)
 
 
-### Day 7: May 23, 2019
+### Day 7: May 24, 2019
 ##### Learn Flutter Widget/State/BuildContext
 
 **Today's Progress**: Relearn flutter basic on Widget/State/BuildContext
@@ -70,7 +70,7 @@ The log of my #100DaysOfCode challenge. Started on [May 17, Friday, 2019].
 **Link to work:** [Flutter learning](https://github.com/mahasak/bigbear_pomodoro_flutter)
 
 
-### Day 8: May 24, 2015
+### Day 8: May 25, 2015
 ##### Learn Flutter Animation
 
 **Today's Progress**: Learn flutter animation object and basic of AnimationController
@@ -79,7 +79,7 @@ The log of my #100DaysOfCode challenge. Started on [May 17, Friday, 2019].
 
 **Link to work:** [Flutter learning](https://github.com/mahasak/bigbear_pomodoro_flutter)
 
-### Day 9: May 25, 2015
+### Day 9: May 26, 2015
 ##### Learn Flutter Stream & Timer
 
 **Today's Progress**: Learn how to use Timer and Stream in Flutter to decide how to use data stream fror my Pomodoro timer app.
@@ -88,7 +88,7 @@ The log of my #100DaysOfCode challenge. Started on [May 17, Friday, 2019].
 
 **Link to work:** [Flutter learning](https://github.com/mahasak/bigbear_pomodoro_flutter)
 
-### Day 10: May 26, 2015
+### Day 10: May 27, 2015
 ##### Learn Flutter more on Braoadcast Stream
 
 **Today's Progress**: Learn how to use Broadcast Stream and subscribtions to update state in smaller widget.
@@ -97,7 +97,7 @@ The log of my #100DaysOfCode challenge. Started on [May 17, Friday, 2019].
 
 **Link to work:** [Flutter learning](https://github.com/mahasak/bigbear_pomodoro_flutter)
 
-### Day 11: May 27, 2015
+### Day 11: May 28, 2015
 ##### Learn Scala Meta
 
 **Today's Progress**: Learn how to use Scala meta programming (super basic one)
@@ -107,7 +107,7 @@ The log of my #100DaysOfCode challenge. Started on [May 17, Friday, 2019].
 **Link to work:** [Learn-Scala-Meta](https://github.com/mahasak/learn-meta-prog)
 
 
-### Day 12: May 27, 2015
+### Day 12: May 29, 2015
 ##### Learn Kotlin Vert.X
 
 **Today's Progress**: Learn how to use Vert.x to program a reactive API server
@@ -116,7 +116,7 @@ The log of my #100DaysOfCode challenge. Started on [May 17, Friday, 2019].
 **Link to work:** [Learn-Scala-Meta](https://github.com/mahasak/learn-meta-prog)
 
 
-### Day 13: May 27, 2015
+### Day 13: May 30, 2015
 ##### Learn Go by side project
 
 **Today's Progress**: Learn to use go middleware, apply middleware chaining to working as http pipeline similar to what i'm familiar.
@@ -125,4 +125,12 @@ The log of my #100DaysOfCode challenge. Started on [May 17, Friday, 2019].
 **Link to work:** [OpenOrders](https://github.com/mahasak/OpenOrders)
 
 
+
+### Day 14: May 30, 2015
+##### Learn Go by side project
+
+**Today's Progress**: Today learn basic graphql and using postgresql to backed graphql, finished create first graphql !!
+
+**Thoughts:** Graphql in go is totallu different from what i have worked with
+**Link to work:** [OpenOrders](https://github.com/mahasak/OpenOrders)
 
