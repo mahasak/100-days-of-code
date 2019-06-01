@@ -126,7 +126,7 @@ The log of my #100DaysOfCode challenge. Started on [May 18, Friday, 2019].
 
 
 
-### Day 14: May 30, 2015
+### Day 14: May 31, 2015
 ##### Learn Go by side project
 
 **Today's Progress**: Today learn basic graphql and using postgresql to backed graphql, finished create first graphql !!
@@ -134,3 +134,9 @@ The log of my #100DaysOfCode challenge. Started on [May 18, Friday, 2019].
 **Thoughts:** Graphql in go is totallu different from what i have worked with
 **Link to work:** [OpenOrders](https://github.com/mahasak/OpenOrders)
 
+
+### Day 15: June 1, 2015
+##### Project OpenOrders
+
+**Today's Progress**: Today i learned how to setup typescript + react + parcel from scratch and setup test framework for my openorders project
+**Link to work:** [OpenOrders](https://github.com/mahasak/OpenOrders)
