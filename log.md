@@ -140,3 +140,11 @@ The log of my #100DaysOfCode challenge. Started on [May 18, Friday, 2019].
 
 **Today's Progress**: Today i learned how to setup typescript + react + parcel from scratch and setup test framework for my openorders project
 **Link to work:** [OpenOrders](https://github.com/mahasak/OpenOrders)
+
+
+
+### Day 16: June 3, 2015
+##### Project OpenOrders
+
+**Today's Progress**: Today i evaluate Kotlin and compare to Scala as Go not spark joy to mylife and Software development should be fun so i decided to try either Kotlin or Scala for my project. I learned Kotlin and used it to solve programming question in leetcode for 2 hours and found Kotlin is very handy not it hates implicits.
+**Link to work:** [OpenOrders](https://github.com/mahasak/OpenOrders)
