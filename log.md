@@ -9,5 +9,18 @@ The log of my #100DaysOfCode challenge. Started on [June 23, Friday, 2019].
 
 **Thoughts:** I'm thinking about next step to build CI for this project to ensure my workflow is correctly setup.
 
-**Link to work:** [FlipCounter component](https://github.com/mahasak/bearbot)
+**Link to work:** [BearBot](https://github.com/mahasak/bearbot-ultima)
 
+### Day 2: June 24, 2019
+##### Setup CI/CD
+
+**Today's Progress**: Today i learn setting up CP/CD for my project on CircleCI, i need to setup webpack from scratch to support typescript instead of using builtin tsc which came with firebase-cli.
+
+**Link to work:** [BearBot](https://github.com/mahasak/bearbot-ultima)
+
+### Day 3: June 25, 2019
+##### Build Webhook pipeline with TypeScript
+
+**Today's Progress**: Today i built webhook execution pipeline using typescript together with iterator interface. This take a bit long for me to realize that forEach method is not working for my use case. Anyway i'm really impress with today works.
+
+**Link to work:** [BearBot](https://github.com/mahasak/bearbot-ultima)
