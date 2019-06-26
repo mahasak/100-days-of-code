@@ -24,3 +24,10 @@ The log of my #100DaysOfCode challenge. Started on [June 23, Friday, 2019].
 **Today's Progress**: Today i built webhook execution pipeline using typescript together with iterator interface. This take a bit long for me to realize that forEach method is not working for my use case. Anyway i'm really impress with today works.
 
 **Link to work:** [BearBot](https://github.com/mahasak/bearbot-ultima)
+
+### Day 4: June 26, 2019
+##### Add test to WebhookPipeline
+
+**Today's Progress**: Add test for webhook pipeline. Today i mocked webhook request and response, and test execution pipeline to make sure it can execute properly.
+
+**Link to work:** [BearBot](https://github.com/mahasak/bearbot-ultima)
